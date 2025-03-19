@@ -7,8 +7,8 @@ from discord.ext import commands
 app = Flask(__name__)
 
 # ID du bot et du serveur Discord
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-GUILD_ID = "YOUR_GUILD_ID"
+BOT_TOKEN = "MTM0ODU5Njk4ODE3Nzk0NDYxNw.GzoDGy.D2Yf3z3WtSycFFLW52aFOP1K1wcGDzH040RLkY"
+GUILD_ID = "1345009390302003272"
 
 intents = discord.Intents.default()
 intents.members = True  # Assurez-vous d'avoir accès aux membres du serveur
